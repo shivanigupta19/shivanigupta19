@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Documentation
 - 💬 Ask me about Flutter / Java
 - 📫 How to reach me: linkedin - https://www.linkedin.com/in/shivani-gupta-22b6b8171/
-- 😄 Pronouns: She / Her :)
+- 😄 Pronouns: She / Her 
 - ⚡ Fun fact: 
 
 
