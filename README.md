@@ -8,6 +8,16 @@
 <a href="https://www.facebook.com/profile.php?id=100005871032037">
   <img align="left" alt="Shivani's Facabook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   
+  <a href="https://github.com/shivanigupta19">
+  <img align="left" alt="Shivani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://web.telegram.org/#/im">
+  <img align="left" alt="Shivani's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/shivani_gupta_57/">
+  <img align="left" alt="Shivani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+  
   
   <br/>
 <br/>
