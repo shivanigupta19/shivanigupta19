@@ -1,4 +1,12 @@
 ### Hi SHIVANI is there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanigupta19&label=Views&color=blue&style=plastic" alt="shivanigupta19" /> </p>
+
+<a href="https://www.linkedin.com/in/shivani-gupta-22b6b8171/">
+  <img align="left" alt="Shivani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100005871032037">
+  <img align="left" alt="Shivani's Facabook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 
 - 🔭 I’m currently working on [CoolAge App](https://coolage.app/)
 - 🌱 I’m currently learning Node Js
