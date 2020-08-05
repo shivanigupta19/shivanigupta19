@@ -1,5 +1,5 @@
 ### Hi SHIVANI is there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanigupta19&label=Views&color=blue&style=plastic" alt="shivanigupta19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanigupta19&label=Profile Views&color=blue&style=plastic" alt="shivanigupta19" /> </p>
 
 <a href="https://www.linkedin.com/in/shivani-gupta-22b6b8171/">
   <img align="left" alt="Shivani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
