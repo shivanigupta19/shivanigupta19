@@ -25,6 +25,8 @@
 
 
 
+
+
 - 🔭 I’m currently working on [CoolAge App](https://coolage.app/)
 - 🌱 I’m currently learning Node Js
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/shivani-gupta-22b6b8171/)
@@ -45,6 +47,10 @@
 </a>
 <a href="https://github.com/shivanigupta19">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanigupta19&show_icons=true&theme=dracula&line_height=27" alt="Shivani's github stats"/>
+</a>
+
+<a href="https://github.com/iampawan/VelocityX">	<a href="https://github.com/iampawan/VelocityX">
+ <img align="center" src="https://github.com/shivanigupta19/WhatsApp-cloneX&theme=dark" />	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivanigupta19&repo=WhatsApp-clone&theme=dark" />
 </a>
 
 ### Show some ❤️ by starring some of the repositories!
