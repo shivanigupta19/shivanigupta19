@@ -49,7 +49,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivanigupta19&show_icons=true&theme=dracula&line_height=27" alt="Shivani's github stats"/>
 </a>
 
-<a href="https://github.com/shivanigupta19/WhatsApp-clone">	<a href="https://github.com/shivanigupta19/WhatsApp-clone">
+<a href="https://github.com/shivanigupta19/WhatsApp-clone">
  <img align="center" src="https://github.com/shivanigupta19/WhatsApp-cloneX&theme=dark" />	 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivanigupta19&repo=WhatsApp-clone&theme=dracula" />
 </a>
 
