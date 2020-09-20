@@ -27,7 +27,7 @@
 
 
 
-- 🔭 I’m currently working on [MissionEd](https://missioned.in/)
+- 🔭 I’m currently working on some important projects
 - 🌱 I’m currently learning Node Js
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/shivani-gupta-22b6b8171/)
 - 🤔 I’m looking for help with Documentation
