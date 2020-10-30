@@ -21,7 +21,7 @@
   
   <br/>
 <br/>
-
+<img src="https://github.com/shivanigupta19/User-Interface-Random/blob/master/Images/Me.jpeg?raw=false" width="25%" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
