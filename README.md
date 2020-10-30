@@ -21,11 +21,6 @@
   
   <br/>
 <br/>
-<img src="https://github.com/shivanigupta19/User-Interface-Random/blob/master/Images/Me.jpeg?raw=false" width="25%" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
 
 - 🔭 I’m currently working on some important projects
 - 🌱 I’m currently learning Node Js
@@ -35,7 +30,6 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivani-gupta-22b6b8171/)
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: 
-
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
