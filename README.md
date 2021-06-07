@@ -14,7 +14,7 @@
 <a href="https://web.telegram.org/#/shivani_gupta_57">
   <img align="left" alt="Shivani's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/shivani_gupta_57/">
+<a href="https://www.instagram.com/ershivani99/">
   <img align="left" alt="Shivani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
   
