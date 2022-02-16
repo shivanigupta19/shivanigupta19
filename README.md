@@ -22,12 +22,12 @@
   <br/>
 <br/>
 
-- 🔭 I’m currently working in [Brelext IT Solutions](http://www.brelext.com/)
-- 🌱 I’m currently learning Node Js
+- 🔭 I’m currently working in ...
+- 🌱 I’m currently learning MERN
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/shivani-gupta-22b6b8171/)
 - 🤔 I’m looking for help with Documentation
-- 💬 Ask me about Flutter / Java
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivani-gupta-22b6b8171/)
+- 💬 Ask me about Java
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivani-gupta-22b6b8171/) 
 - 😄 Pronouns: She / Her 
 - ⚡ Fun fact: 
 **Languages and Tools:**  
