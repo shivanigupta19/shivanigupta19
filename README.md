@@ -22,8 +22,8 @@
   <br/>
 <br/>
 
-- 🔭 I’m currently working in ...
-- 🌱 I’m currently learning MERN
+- 🔭 I’m currently working in Cogoport 
+- 🌱 I’m currently learning backend
 - 👯 I’m looking to collaborate on [Linkedin](https://www.linkedin.com/in/shivani-gupta-22b6b8171/)
 - 🤔 I’m looking for help with Documentation
 - 💬 Ask me about Java
